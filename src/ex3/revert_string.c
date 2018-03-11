@@ -1,5 +1,3 @@
-#include "revert_string.h"
-
 void Swap(char *left, char *right)
 {
     char a = *left;
